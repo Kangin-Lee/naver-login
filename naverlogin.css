@@ -1,0 +1,77 @@
+body{
+    text-align: center;
+    background-color: #f5f6f7;
+}
+
+#naverlanguage{
+    margin-left: 700px;
+    width: 100px;
+    height: 30px;
+    border-radius: 0%;
+}
+
+#logo{
+    margin-top: 150px;
+    width: 10%;
+}
+
+.id{
+    margin-top: 70px;
+    width: 350px;
+    height: 40px;
+    border: none;
+    border-radius: 2%;
+}
+.pwd{
+    margin-top: 7px;
+    margin-bottom: 7px;
+    width: 350px;
+    height: 40px;
+    border: none;
+    border-radius: 2%;
+}
+.loginbtn{
+    margin-bottom: 7px;
+    width: 350px;
+    height: 40px;
+    background-color: rgb(24, 207, 24);
+    color: white;
+    border: none;
+    border-radius: 2%;
+}
+
+/*체크박스 자리*/
+.loginkeep{
+    margin-right: 205px;
+}
+
+.bi-check-circle{
+    color: rgb(24, 207, 24);
+}
+hr{
+    width: 350px;
+}
+
+#QR, #disposable{
+    margin-top: 20px;
+    margin-bottom: 16px;
+    background-color: white;
+    border-radius: 2%;
+    border: gray;
+    width: 125px;
+    height: 30px;
+    padding: 0%;
+}
+
+.idpwdfind, footer{
+    font-size: small;
+}
+
+#a, #b, #c, #d, #e, #f, #g, #h{
+    text-decoration: none;
+    color: gray;
+}
+
+#navercorp{
+    width: 55px;
+}
