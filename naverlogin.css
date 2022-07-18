@@ -17,20 +17,16 @@ body{
 
 .id{
     margin-top: 70px;
+}
+.id, .pwd{
     width: 350px;
     height: 40px;
     border: none;
     border-radius: 2%;
 }
-.pwd{
-    margin-top: 7px;
-    margin-bottom: 7px;
-    width: 350px;
-    height: 40px;
-    border: none;
-    border-radius: 2%;
-}
+
 .loginbtn{
+    margin-top: 7px;;
     margin-bottom: 7px;
     width: 350px;
     height: 40px;
@@ -40,14 +36,14 @@ body{
     border-radius: 2%;
 }
 
-/*체크박스 자리*/
 .loginkeep{
-    margin-right: 205px;
+    margin-right: 200px;
+    width: 200px;
+    font-size: 17px;
+    background-color: #f5f6f7;
+    border: none;
 }
 
-.bi-check-circle{
-    color: rgb(24, 207, 24);
-}
 hr{
     width: 350px;
 }
